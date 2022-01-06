@@ -27,3 +27,11 @@ body{
     float: left;
     
 }
+footer{
+    background: #f3a20be7;
+    color: rgb(34, 31, 31);
+    padding: 10px;
+    text-align: center;
+    width: 99%;
+    display:block;
+}
