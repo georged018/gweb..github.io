@@ -1,0 +1,29 @@
+.navbar{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: #f3a20be7;
+
+}
+.navbar li{
+    display: inline-block;
+    padding: 10px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: ghostwhite;
+}
+body{
+    background-image: url('https://pics.freeartbackgrounds.com/fullhd/Red_Sunrise_Background-462.jpg');
+    padding-top: 100px;
+}
+.navbar img{
+    height: 80px;
+    width: 80px;
+    float: left;
+    
+}
